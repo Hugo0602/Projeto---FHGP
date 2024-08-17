@@ -1,0 +1,2 @@
+Link do site - para cadastro: http://localhost:8000/index.html
+Ativar o servidor no terminal atravez do seguinte codigo: node .\server.js
